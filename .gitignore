@@ -1,0 +1,12 @@
+__pycache__
+build
+*.egg-info
+*.pyc
+*.pyd
+*.pyi
+*.pyo
+*.pyw
+*.pyz
+*.lst
+*.txt
+!requirements.txt
