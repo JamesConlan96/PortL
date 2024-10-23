@@ -5,7 +5,7 @@ setup(
     version='1',
     description='SpeedGuide.net port lookup utility',
     author='James Conlan',
-    url='https://github.com/JamesConlan96/portl',
+    url='https://github.com/JamesConlan96/PortL',
     py_modules=[
         'portl'
     ],
